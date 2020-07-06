@@ -1,0 +1,9 @@
+.bundle
+.DS_Store
+.env*
+*.log
+/config/master.key
+/public/assets
+/public/javascripts
+/storage
+/tmp/*
